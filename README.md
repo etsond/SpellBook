@@ -10,7 +10,7 @@ Browse spells by name
 3. JavaScript
 5. D&D 5th Edition API
 ## Installation
-1. Clone the repository: git clone https://github.com/etsond/DungeonDragon.git
+1. Clone the repository: git clone https://github.com/etsond/SpellBook
 2. Open the index.html file in your web browser.
 ## Usage
 - Open the Dungeon Dragon app in your web browser.
